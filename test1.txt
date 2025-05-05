@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 44AD-A726
-
- Directory of C:\Users\kruna\Desktop\Projects
-
-05-05-2025  13:51    <DIR>          .
-05-05-2025  13:48    <DIR>          ..
-05-05-2025  13:51                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  17,369,829,376 bytes free
+change 1
